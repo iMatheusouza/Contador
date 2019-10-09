@@ -22,8 +22,7 @@ section {
   align-items: center;
   flex-direction: column;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
-  padding: 10% 8%;
-  max-width: 400px;
+  width: 80%;
   overflow-y: auto;
 }
 
@@ -36,6 +35,7 @@ input {
   border-style: none none solid none;
   margin: 5px;
   font: normal 15pt Arial;
+  display: block;
 
 }
 
